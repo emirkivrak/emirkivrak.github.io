@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://emirkivrak.github.io/al-folio/sitemap.xml
+Sitemap: https://emirkivrak.github.io/sitemap.xml
